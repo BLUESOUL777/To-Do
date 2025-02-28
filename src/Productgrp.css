@@ -1,0 +1,11 @@
+.card {
+    border: 5px solid whitesmoke !important;
+    border-radius: 5px !important;
+    margin-bottom: 10px !important;
+    width: 200px !important;
+    height: 300px !important;
+    display: flex !important;
+    flex-wrap: wrap !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
